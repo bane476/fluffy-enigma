@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc liblogistics_core.a CMakeFiles/logistics_core.dir/src/graph.cpp.obj CMakeFiles/logistics_core.dir/src/dijkstra.cpp.obj CMakeFiles/logistics_core.dir/src/vrp_solver.cpp.obj CMakeFiles/logistics_core.dir/src/serializer.cpp.obj CMakeFiles/logistics_core.dir/src/api.cpp.obj
+C:\mingw64\bin\ranlib.exe liblogistics_core.a
